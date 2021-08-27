@@ -67,6 +67,8 @@
   <a href="https://instagram.com/j.uliu"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/juliuiu"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+5581981472854"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=+5581981472854"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://mailto:juliolemos_@outlook.com/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/chat_bubble.svg" width="35px" alt="Email"></a>
 </p>
 
 <p align="center">
