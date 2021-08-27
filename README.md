@@ -10,7 +10,7 @@
     <br />
     Vivido e crescido em Recife-PE :round_pushpin:
     <br><br>
-    P.S. Aprendi cedo que HTML não é linguagem de programação!! :v:
+    
   </samp>
 </p>
 
