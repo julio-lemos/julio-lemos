@@ -17,42 +17,77 @@
 <br><br>
 
 <!-- GitHub Statistics -->
+<details>
+  <summary>📉 Estatísticas</summary>
+  
+  &nbsp;
+  
+  &nbsp;
+    <a href="https://github.com/julio-lemos/julio-lemos">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julio-lemos&layout=compact&theme=tokyonight" alt="Julio status" />
+    </a>
 
-<a href="https://github.com/julio-lemos/julio-lemos">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julio-lemos&layout=compact&theme=tokyonight" alt="Julio status" />
-</a>
-
- <p>                                                                                </p>
-
-<a href="https://github.com/julio-lemos/julio-lemos">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=julio-lemos&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Julio status" /> 
-</a>
+  &nbsp;
+    <a href="https://github.com/julio-lemos/julio-lemos">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=julio-lemos&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Julio status" /> 
+    </a>
+  
+</details>
 
 
 ************
 
-### 🔧 &nbsp; Tecnologias e ferramentas...
-<p align="center">
+<details>
+  <summary>💡 Habilidades</summary>
+  
+  ### Linguagens
+  ![Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+  ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  
+  ### Frameworks
+  ![Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  
+  ### Database
+  ![Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+  ![Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  
+  ### Ferramentas
+  ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+  
+  ### Softwares
+  ![Badge](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+  ![Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Badge](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
+  ![Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  
+  ### Sistemas Operacionais
+  ![Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  
+  ### Outros
+  ![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-  <!-- For more icons like these follow : https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-
-</p>
+</details>
+ 
 
 ----
+<details>
+   <summary> 👨🏻‍💻 &nbsp; Estou atualmente... </summary>
 
-### 👨🏻‍💻 &nbsp; Estou atualmente...
-
+  &nbsp;
   - Melhorando minhas habilidades em React e Angular
   - Desenvolvendo em tecnologias Back-end
   - Melhorando em bancos de dados
+</details>
   
 ----
 
