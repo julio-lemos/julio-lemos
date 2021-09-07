@@ -1,27 +1,30 @@
 <!-- The Hello World gif -->
 
-<p align="center">  
+<p>  
   <!-- The Opening Phrases -->
   
   <samp>
     Olá, sou o Julio <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
     <br><br>
-    Eu trabalho atualmente como dev Web front-end :globe_with_meridians:
+    25 anos
+    <br />
+    Estudante de computação
+    <br />
+    Dev web front-end :globe_with_meridians:
     <br />
     Vivido e crescido em Recife-PE :round_pushpin:
-    <br><br>
-    
+    <br><br>    
   </samp>
+  
 </p>
 
-<br><br>
+
 
 <!-- GitHub Statistics -->
 <details>
   <summary>📉 Estatísticas</summary>
   
-  &nbsp;
-  
+  &nbsp;  
   &nbsp;
     <a href="https://github.com/julio-lemos/julio-lemos">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julio-lemos&layout=compact&theme=tokyonight" alt="Julio status" />
