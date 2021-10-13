@@ -8,8 +8,6 @@
     <br><br>
     25 anos
     <br />
-    Estudante de computação
-    <br />
     Dev web front-end :globe_with_meridians:
     <br />
     Vivido e crescido em Recife-PE :round_pushpin:
