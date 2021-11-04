@@ -1,110 +1,31 @@
-<!-- The Hello World gif -->
+## Julio Lemos
 
-<p>  
-  <!-- The Opening Phrases -->
-  
-  <samp>
-    Olá, sou o Julio <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
-    <br><br>
-    25 anos
-    <br />
-    Dev web front-end :globe_with_meridians:
-    <br />
-    Vivido e crescido em Recife-PE :round_pushpin:
-    <br><br>    
-  </samp>
-  
-</p>
-
-
-
-<!-- GitHub Statistics -->
-<details>
-  <summary>📉 Estatísticas</summary>
-  
-  &nbsp;  
-  &nbsp;
-    <a href="https://github.com/julio-lemos/julio-lemos">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julio-lemos&layout=compact&theme=tokyonight" alt="Julio status" />
-    </a>
-
-  &nbsp;
-    <a href="https://github.com/julio-lemos/julio-lemos">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=julio-lemos&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Julio status" /> 
-    </a>
-  
-</details>
-
-
-************
-
-<details>
-  <summary>💡 Habilidades</summary>
-  
-  ### Linguagens
-  ![Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-  ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-  
-  ### Frameworks
-  ![Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  
-  ### Database
-  ![Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-  ### Ferramentas
-  ![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-  
-  ### Softwares
-  ![Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Badge](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
-  
-  ### Sistemas Operacionais
-  ![Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  
-  ### Outros
-  ![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-</details>
- 
-
-----
-<details>
-   <summary> 👨🏻‍💻 &nbsp; Estou atualmente... </summary>
-
-  &nbsp;
-  - Melhorando minhas habilidades em Angular
-  - Evoluindo minhas skills em frontend
-</details>
-  
-----
-
-<!-- Social Media Links -->
-
-<p align="center"> 
-  <i> Vamos nos conectar! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-lemos96/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/j.uliu"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/juliuiu"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+5581981472854"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
- 
-</p>
-
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
-</p>
+### 👋 Hello, Devs!!!
+Tenho 25 anos, sou de Recife/PE, estudante de computação apaixonado por este mundo a mais tempo que eu possa me lembrar, atualmente atuo como desenvolvedor frontend pela @justapagamentos.
 
 <br>
 
-<!---->
-<!---->
 
+### 🖥 Ferramentas e Tecnologias
+<code><img style="margin-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></code>
+<code><img style="margin-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" /></code>
 
+<br>
+
+### Estatísticas
+<div>
+<a href="https://github.com/julio-lemos>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-lemos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio-lemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+<br>
+
+<a href="https://www.instagram.com/juliu" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/juliuiu" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/julio-lemos96" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
