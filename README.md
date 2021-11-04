@@ -17,10 +17,10 @@ Tenho 25 anos, sou de Recife/PE, estudante de computação apaixonado por este m
 <br>
 
 ### Estatísticas
+<!-- <a href="https://github.com/julio-lemos /> -->
 <div>
-<a href="https://github.com/julio-lemos>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-lemos&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio-lemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio-lemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" >
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=julio-lemos&layout=compact&theme=dracula" >                                                                                                                                             
 </div>
 
 <br>
