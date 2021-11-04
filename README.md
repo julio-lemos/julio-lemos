@@ -30,3 +30,6 @@ Tenho 25 anos, sou de Recife/PE, estudante de computação apaixonado por este m
 <a href="https://www.instagram.com/j.uliu" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/juliuiu" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/julio-lemos96" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  
+![Snake animation](https://github.com/julio-lemos/julio-lemos/blob/output/github-contribution-grid-snake.svg)
+
