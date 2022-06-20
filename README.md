@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Julio, tenho 26 anos e sou de Recife/PE.<br>Sou um estudante de computação apaixonado pelo universo Javascript e um curioso no ecossistema mobile.<br>Atuo como engenheiro de software jr pela @justapagamentos.</p>
+<p align="left">Meu nome é Julio, tenho 26 anos e sou de Recife/PE.<br>Sou um estudante de computação apaixonado pelo universo Javascript e um curioso no ecossistema mobile.<br>Atuo como engenheiro de software Jr. pela @justapagamentos.</p>
 
 ###
 
