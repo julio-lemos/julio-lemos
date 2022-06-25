@@ -2,14 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Julio, tenho 26 anos e sou de Recife/PE.<br>Sou um estudante de computação apaixonado pelo universo Javascript e um curioso no ecossistema mobile.<br>Atuo como engenheiro de software Jr. pela @justapagamentos.</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=true&username=julio-lemos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&username=julio-lemos" height="150" alt="languages graph"  />
-</div>
+<p align="left">Meu nome é Julio, tenho 26 anos e sou de Recife/PE.<br>Sou um estudante de computação apaixonado pelo universo Javascript e um curioso no ecossistema mobile.<br>Atuo como engenheiro de software jr pela @justapagamentos.</p>
 
 ###
 
@@ -59,8 +52,8 @@
   <a href="mailto:juliolemos_@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://medium.com/@juliolemos_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="https://dev.to/juliolemos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
 </div>
 
